@@ -19,9 +19,9 @@ function iLoveTheBeatles(num){
   const array = []
   let y= 15
   do {(`I love the Beatles!`); 
+    array.push(`I love the Beatles!`)
   }
-  while (num < y++){
-    
+  while (num < y){
   y++
   }
   return (array)
