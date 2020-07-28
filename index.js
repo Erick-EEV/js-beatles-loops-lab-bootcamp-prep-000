@@ -20,9 +20,10 @@ function iLoveTheBeatles(num){
   let y= 15
   do {(`I love the Beatles!`); 
     array.push(`I love the Beatles!`)
+    
   }
   while (num < y){
-  y++
+
   }
   return (array)
 }
